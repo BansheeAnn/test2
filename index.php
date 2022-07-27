@@ -1,7 +1,3 @@
 echo "Hello Git"
 echo "Hello Git"
-оороро
-алпллрл
-
-лшлорорло
-плрлрл
+echo "Hello New brench"
